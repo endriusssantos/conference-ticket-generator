@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+body {
+    background-color: var(--neutral-900);
+    color: #ffffff;
+    min-height: 100vh;
+    font-family: 'Inconsolata', sans-serif;
+}
